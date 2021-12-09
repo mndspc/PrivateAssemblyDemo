@@ -1,0 +1,6 @@
+D:\Corporate\Nordic Academy\C#\Demos\PrivateAssemblyDemo\GstUtilities\GstUtilities\bin\Debug\GstUtilities.dll
+D:\Corporate\Nordic Academy\C#\Demos\PrivateAssemblyDemo\GstUtilities\GstUtilities\bin\Debug\GstUtilities.pdb
+D:\Corporate\Nordic Academy\C#\Demos\PrivateAssemblyDemo\GstUtilities\GstUtilities\obj\Debug\GstUtilities.csproj.AssemblyReference.cache
+D:\Corporate\Nordic Academy\C#\Demos\PrivateAssemblyDemo\GstUtilities\GstUtilities\obj\Debug\GstUtilities.csproj.CoreCompileInputs.cache
+D:\Corporate\Nordic Academy\C#\Demos\PrivateAssemblyDemo\GstUtilities\GstUtilities\obj\Debug\GstUtilities.dll
+D:\Corporate\Nordic Academy\C#\Demos\PrivateAssemblyDemo\GstUtilities\GstUtilities\obj\Debug\GstUtilities.pdb
